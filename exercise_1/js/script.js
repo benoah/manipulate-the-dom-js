@@ -69,5 +69,12 @@ notificationContainer.classList.toggle("is-invisible");
   please add a nice photo as background image to the hero banner.
 */
 
+const heroImage = document.querySelector(".hero");
+
+function backgroundImage (){
+
+
+
+}
 
 
